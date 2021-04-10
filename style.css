@@ -1,0 +1,13 @@
+/* ==== HELPER COLORS FOR LAYOUT ==== */
+
+.main-header {
+	background-color: rgba(255, 248, 53, .3);
+}
+
+.primary-content {
+	background-color: rgba(140, 96, 255, .3);
+}
+
+.post {
+	background-color: rgba(255, 0, 0, .3);
+}
