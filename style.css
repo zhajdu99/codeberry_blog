@@ -44,13 +44,31 @@ h2 {
     color: #8c8e9b;
 }
 
-.picture {
-	width: 100%;
+
+/* ==== LAYOUT STYLES ==== */
+
+h1,h2,h3,h4,h5,h6,hgroup,
+ul,ol,dd,
+p,figure,
+pre,table,fieldset,hr,
+img,
+.main-header, .primary-content {
+    margin-bottom: 1rem;
 }
 
-main {
-	width: 50vw;
+/* Main Header Styles */
+.main-header {
+	text-align: center;
+	padding: 1.25rem;
 }
-header {
-	height: 25vh;
+
+/* Article Styles */
+.post {
+	width: 95%;
+	margin: 0 auto 1rem;
+	padding: 0.3125rem;
+}
+
+.picture {
+	width: 100%;
 }
